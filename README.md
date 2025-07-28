@@ -9,3 +9,7 @@ Este repositório tem a finalidade de:
 - ✅ Projetos iniciais;
 - ✅ Anotações;
 - ✅ Gerar conhecimento e aprendizados.
+
+
+## ✨ Conclusão
+Como dito anteriormente, este repositório e estes projetos tem apenas finalidade de aprimorar conhecimentos e habilidades em Java para futuramente, domina-lá.
